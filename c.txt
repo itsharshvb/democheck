@@ -1,0 +1,2 @@
+created a new file named as c.txt 
+to be pulled from remote to local
